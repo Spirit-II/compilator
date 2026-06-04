@@ -1,0 +1,4 @@
+program test;
+var x := 10;
+@
+hello
